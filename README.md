@@ -1,22 +1,46 @@
 [![MasterHead](https://i.pinimg.com/originals/f6/58/65/f6586511a3a38cad3b3f60b474a22e18.jpg)](https://github.com/JMS-Marcel)
 <h1 align="center">Hi 👋, I'm Jemsh Marcel !✨✨</h1>
-<h3 align="center">A passionate web developer from Madagascar</h3>
-<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif" alt="coding">
+
+
+## 🌟 About Me
+
+A passionate web developer with a focus on modern web technologies and collaboration tools. I specialize in building dynamic and responsive web applications using Laravel, Vue.js, and TailwindCSS. Additionally, I have experience working with various CRM platforms such as WordPress and PrestaShop. My tech stack also includes PHP, JavaScript, and MySQL, ensuring robust back-end and front-end development.
+
+
+
+## 🛠️ Skills
+
+### Frameworks and Libraries
+
+- ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white) **Laravel:** Expert in building scalable and secure web applications.
+- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) **Vue.js:** Proficient in creating interactive and dynamic user interfaces.
+- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) **TailwindCSS:** Skilled in designing responsive and aesthetically pleasing layouts.
+
+### Content Management Systems
+
+- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) **WordPress:** Experienced in customizing themes and plugins to meet client needs.
+- ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=flat&logo=prestashop&logoColor=white) **PrestaShop:** Knowledgeable in setting up and managing e-commerce platforms.
+
+### Programming Languages
+
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) **PHP:** Strong understanding of server-side scripting and web application development.
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript:** Proficient in both vanilla JavaScript and modern frameworks.
+
+### Databases
+
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) **MySQL:** Adept at designing and managing relational databases.
+
+### Version Control
+
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) **Git:** Proficient in version control and collaborative development.
+
+### Collaboration Tools
+
+- ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) **Trello:** Effective in using Trello for project management and team collaboration.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jms-marcel&label=Profile%20views&color=0e75b6&style=flat" alt="jms-marcel" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Vue**
 
-- 💬 Ask me about **php**
-
-- 📫 How to reach me **jemshjms@gmail.com**  
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo.min.svg" alt="laravel" width="40" height="40"/> </a>    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@jemshmarcel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jemshmarcel" height="30" width="40" /></a>
@@ -25,8 +49,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jemsh Marcel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jemsh Marcel" /></a></p><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jms-marcel&show_icons=true&locale=en&layout=compact" alt="jms-marcel" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jms-marcel&" alt="jms-marcel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jms-marcel&show_icons=true&locale=en" alt="jms-marcel" /></p>
+## 📫 Get in Touch
 
+- **GitHub:** [github.com/JMS-Marcel](https://github.com/JMS-Marcel) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- **LinkedIn:** [linkedin.com/in/jermsh-marcel](https://www.linkedin.com/in/jemsh-marcel-nantenaina-1a2469315/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+- **Email:** jemshjms@gmail.com 📫
+
+
+---
+
+<h2>Feel free to reach out if you have any questions or if you'd like to collaborate on a project!✨</h2>
