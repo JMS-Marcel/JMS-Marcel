@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 
-<h3>A passionate web developer with a focus on modern web technologies and collaboration tools. I specialize in building dynamic and responsive web applications using Laravel, Vue.js, and TailwindCSS. Additionally, I have experience working with various CRM platforms such as WordPress and PrestaShop. My tech stack also includes PHP, JavaScript, and MySQL, ensuring robust back-end and front-end development.</h3>
+<h3>A passionate web developer with a focus on modern web technologies and collaboration tools. I specialize in building dynamic and responsive web applications using Laravel, Vue.js, and TailwindCSS. Additionally, I have experience working with various CMS platforms such as WordPress and PrestaShop. My tech stack also includes PHP, JavaScript, and MySQL, ensuring robust back-end and front-end development.</h3>
 
 
 
